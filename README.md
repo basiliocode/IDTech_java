@@ -1,2 +1,3 @@
 # IDTech_java
-simple example integration iIDTech
+
+This is a simple example aplication java, it show how to call some functions from lib iIDTech
